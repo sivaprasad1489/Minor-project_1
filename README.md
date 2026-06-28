@@ -51,22 +51,6 @@ WhatsApp
 
 Place the exported .txt file in the project folder.
 
-▶️ Installation
-
-Clone the repository
-
-git clone https://github.com/yourusername/GroupDNA.git
-
-Go to the project folder
-
-cd GroupDNA
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run the notebook
-
 jupyter notebook
 📊 Sample Insights
 Total messages sent
